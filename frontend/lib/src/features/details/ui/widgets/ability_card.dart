@@ -38,8 +38,7 @@ class AbilityCard extends StatelessWidget {
         borderRadius: BorderRadius.circular(16),
         child: Stack(
           children: [
-            // Background design elements
-            Positioned(
+            const Positioned(
               right: -20,
               bottom: -20,
               child: Opacity(
@@ -50,7 +49,6 @@ class AbilityCard extends StatelessWidget {
                 ),
               ),
             ),
-            // Content
             Padding(
               padding: const EdgeInsets.all(16.0),
               child: Row(
@@ -62,7 +60,7 @@ class AbilityCard extends StatelessWidget {
                       color: Colors.white.withOpacity(0.3),
                       borderRadius: BorderRadius.circular(12),
                     ),
-                    child: Icon(
+                    child: const Icon(
                       Icons.auto_awesome,
                       color: Colors.white,
                       size: 26,

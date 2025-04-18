@@ -20,7 +20,6 @@ class MoveCard extends StatelessWidget {
     String methodText;
     Color methodColor;
 
-    // Determine icon and text based on learn method
     switch (learnMethod) {
       case 'level-up':
         methodIcon = Icons.arrow_upward;
@@ -71,14 +70,13 @@ class MoveCard extends StatelessWidget {
         child: Material(
           color: Colors.transparent,
           child: InkWell(
-            onTap: () {}, // Optional tap effect
+            onTap: () {},
             splashColor: color.withOpacity(0.1),
             highlightColor: color.withOpacity(0.05),
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
               child: Row(
                 children: [
-                  // Left part with icon
                   Container(
                     padding: const EdgeInsets.all(10),
                     decoration: BoxDecoration(
@@ -92,7 +90,6 @@ class MoveCard extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(width: 16),
-                  // Move details
                   Expanded(
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -130,7 +127,6 @@ class MoveCard extends StatelessWidget {
                       ],
                     ),
                   ),
-                  // Right arrow icon
                   Icon(
                     Icons.arrow_forward_ios,
                     size: 16,

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Pokédex Banner](assets/pokeball_background_image.png)
+![Pokédex Banner](assets/pokemon.png)
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -133,13 +133,6 @@ The image classification model is currently trained to recognize these Pokémon:
    ```bash
    flutter run
    ```
-
-## 📱 Usage Demo
-
-<div align="center">
-  <p>Classification Feature in Action:</p>
-  <p>https://github.com/user-attachments/assets/92826b8f-90ee-4e2a-a133-e44f47372971</p>
-</div>
 
 ## 📦 Project Structure
 

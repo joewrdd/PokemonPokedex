@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Pokédex Banner](assets/pokemon.png)
+![Pokédex Banner](frontend/assets/pokemon.png)
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)

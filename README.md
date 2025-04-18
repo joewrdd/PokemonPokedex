@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![OtakuWrdd Banner](frontend/assets/logo.png)
+![Pokédex Banner](assets/pokemon.png)
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-2.18+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![GetX](https://img.shields.io/badge/GetX-StateManagement-7E57C2?style=for-the-badge&logo=flutter&logoColor=white)](https://pub.dev/packages/get)
-[![Anime API](https://img.shields.io/badge/Anime%20API-Jikan%20REST-FF69B4?style=for-the-badge&logo=graphql&logoColor=white)](https://jikan.moe/)
+[![Dart](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-4.0+-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 </div>
 
